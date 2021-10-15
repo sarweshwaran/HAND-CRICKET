@@ -1,4 +1,4 @@
-#GAME	:	HAND CRICKET
+GAME	:	HAND CRICKET
 
 ABOUT THE GAME :
 	Hand Cricket is an fun timepass game. It is an cricket based two players(or teams) game.
@@ -14,7 +14,7 @@ All the Best!!
 
 
 Some words from me :
-	I'm sarwesh. I building games like these as my Hobby using c++ which I learnt in my high school. Don't forgot to comment your feedbacks...
+ I'm sarwesh. I building games like these as my Hobby using c++ which I learnt in my high school. Don't forgot to comment your feedbacks...
 
 Thank you!
 Have fun!
